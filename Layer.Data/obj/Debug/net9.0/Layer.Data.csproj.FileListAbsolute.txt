@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\MyTemplate\Layer.Data\obj\Debug\net9.0\Layer.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MyTemplate\Layer.Data\obj\Debug\net9.0\Layer.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MyTemplate\Layer.Data\obj\Debug\net9.0\Layer.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\MyTemplate\Layer.Data\obj\Debug\net9.0\Layer.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyTemplate\Layer.Data\bin\Debug\net9.0\Layer.Data.deps.json
+C:\Users\User\Desktop\MyTemplate\Layer.Data\bin\Debug\net9.0\Layer.Data.dll
+C:\Users\User\Desktop\MyTemplate\Layer.Data\bin\Debug\net9.0\Layer.Data.pdb
+C:\Users\User\Desktop\MyTemplate\Layer.Data\obj\Debug\net9.0\Layer.Data.dll
+C:\Users\User\Desktop\MyTemplate\Layer.Data\obj\Debug\net9.0\refint\Layer.Data.dll
+C:\Users\User\Desktop\MyTemplate\Layer.Data\obj\Debug\net9.0\Layer.Data.pdb
+C:\Users\User\Desktop\MyTemplate\Layer.Data\obj\Debug\net9.0\ref\Layer.Data.dll

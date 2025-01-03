@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\MyTemplate\Layer.Application\obj\Debug\net9.0\Layer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MyTemplate\Layer.Application\obj\Debug\net9.0\Layer.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MyTemplate\Layer.Application\obj\Debug\net9.0\Layer.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\MyTemplate\Layer.Application\obj\Debug\net9.0\Layer.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyTemplate\Layer.Application\bin\Debug\net9.0\Layer.Application.deps.json
+C:\Users\User\Desktop\MyTemplate\Layer.Application\bin\Debug\net9.0\Layer.Application.dll
+C:\Users\User\Desktop\MyTemplate\Layer.Application\bin\Debug\net9.0\Layer.Application.pdb
+C:\Users\User\Desktop\MyTemplate\Layer.Application\obj\Debug\net9.0\Layer.Application.dll
+C:\Users\User\Desktop\MyTemplate\Layer.Application\obj\Debug\net9.0\refint\Layer.Application.dll
+C:\Users\User\Desktop\MyTemplate\Layer.Application\obj\Debug\net9.0\Layer.Application.pdb
+C:\Users\User\Desktop\MyTemplate\Layer.Application\obj\Debug\net9.0\ref\Layer.Application.dll

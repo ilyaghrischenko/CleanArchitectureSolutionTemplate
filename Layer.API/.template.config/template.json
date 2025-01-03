@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "iluhahr",
+  "classifications": ["WebAPI", "Layered Architecture"],
+  "identity": "MyCustomTemplate.API",
+  "name": "API Layer Template",
+  "shortName": "mywebapi",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "Layer.API",
+  "preferNameDirectory": true
+}

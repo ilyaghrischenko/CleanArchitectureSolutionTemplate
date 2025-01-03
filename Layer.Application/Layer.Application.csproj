@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+
+        <RootNamespace>Layer.Application</RootNamespace>
+        <AssemblyName>Layer.Application</AssemblyName>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="DTO\" />
+      <Folder Include="Exceptions\" />
+      <Folder Include="Interfaces\Controllers\" />
+      <Folder Include="Interfaces\Entities\" />
+      <Folder Include="Services\" />
+      <Folder Include="Validation\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include=".template.config\template.json" />
+    </ItemGroup>
+
+</Project>

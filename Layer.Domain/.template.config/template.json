@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "iluhahr",
+  "classifications": ["Domain", "Layered Architecture"],
+  "identity": "MyCustomTemplate.Domain",
+  "name": "Domain Layer Template",
+  "shortName": "mydomain",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "Layer.Domain",
+  "preferNameDirectory": true
+}

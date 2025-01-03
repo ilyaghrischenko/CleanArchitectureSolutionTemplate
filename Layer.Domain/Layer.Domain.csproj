@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+
+        <RootNamespace>Layer.Domain</RootNamespace>
+        <AssemblyName>Layer.Domain</AssemblyName>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Entities\" />
+      <Folder Include="Enums\" />
+      <Folder Include="Exceptions\" />
+      <Folder Include="Interfaces\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include=".template.config\template.json" />
+    </ItemGroup>
+
+</Project>

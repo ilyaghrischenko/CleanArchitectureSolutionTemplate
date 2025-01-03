@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+
+        <RootNamespace>Layer.Data</RootNamespace>
+        <AssemblyName>Layer.Data</AssemblyName>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Projections\" />
+      <Folder Include="Repositories\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include=".template.config\template.json" />
+    </ItemGroup>
+
+</Project>
